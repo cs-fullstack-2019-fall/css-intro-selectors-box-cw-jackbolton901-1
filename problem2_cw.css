@@ -1,0 +1,22 @@
+p{
+    background-color: grey;
+    margin-right: 10%;
+}
+.secondParagraph{
+     background-color: blue;
+     text-align: center;
+
+ }
+#txtStyle{
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    border: 3px solid tan;
+    text-align: center;
+}
+.pink{
+    color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
